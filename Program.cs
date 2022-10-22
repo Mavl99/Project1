@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             string name;
-         Console.WriteLine("Введите Ваша имя": ");
+         Console.WriteLine("Введите имя": ");
          name =Console.ReadLine();
             Console.WriteLine("Приветствую Вас, " + name + "!");
         }
